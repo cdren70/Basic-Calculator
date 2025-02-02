@@ -1,4 +1,4 @@
-﻿# Basic-Calculato
+﻿# Basic-Calculator
 
 Link Access
 
